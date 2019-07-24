@@ -1,0 +1,31 @@
+﻿  마우스 드래그에 반응하는 워핑 변환 - warping.cpp
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(21,23): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(21,18): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(21,50): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(21,47): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,20): warning C4244:  '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,20): warning C4244:         with
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,20): warning C4244:         [
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,20): warning C4244:             _Tp=float
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,20): warning C4244:         ]
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,17): warning C4244:  '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,17): warning C4244:         with
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,17): warning C4244:         [
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,17): warning C4244:             _Tp=float
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(31,17): warning C4244:         ]
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,20): warning C4244:  '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,20): warning C4244:         with
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,20): warning C4244:         [
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,20): warning C4244:             _Tp=float
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,20): warning C4244:         ]
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,17): warning C4244:  '인수': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,17): warning C4244:         with
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,17): warning C4244:         [
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,17): warning C4244:             _Tp=float
+C:\교재소스\Chapter10_OpenCV\Chapter10_OpenCV\마우스 드래그에 반응하는 워핑 변환 - warping.cpp(34,17): warning C4244:         ]
+  코드를 생성하고 있습니다.
+  262 of 265 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    33 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Chapter10_OpenCV.vcxproj -> C:\교재소스\Chapter10_OpenCV\x64\Release\Chapter10_OpenCV.exe
